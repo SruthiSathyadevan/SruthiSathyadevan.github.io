@@ -1,3 +1,3 @@
 # SruthiSathyadevan.github.io
 
-![Visualization of the codebase](./create-diagram.svg)
+![Visualization of the codebase](./diagram.svg)
